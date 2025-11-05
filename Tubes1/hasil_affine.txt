@@ -1,0 +1,4 @@
+Teks Asli: Hello World
+a: 5, b: 2
+Ciphertext: LWFFU IUJFR
+Dekripsi: HELLO WORLD

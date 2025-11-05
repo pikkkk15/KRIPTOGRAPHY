@@ -1,0 +1,4 @@
+Teks Asli: Hello World
+Kunci: key
+Ciphertext: RIJVS UYVJN
+Hasil Dekripsi: HELLO WORLD

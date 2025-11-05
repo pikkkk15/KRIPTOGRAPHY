@@ -1,0 +1,6 @@
+Teks Asli: hello world
+Kunci:
+[[3 3]
+ [2 5]]
+Ciphertext: HIOZEIPJQL
+Dekripsi: HELLOWORLD

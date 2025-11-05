@@ -1,0 +1,4 @@
+Teks Asli: Hello world
+Pergeseran: 5
+Ciphertext: MJQQT BTWQI
+Dekripsi: HELLO WORLD

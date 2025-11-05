@@ -1,0 +1,4 @@
+Teks Asli: hello world
+Kunci: key
+Ciphertext: DBNVMIZMQMGV
+Dekripsi: HELXLOWORLDX
